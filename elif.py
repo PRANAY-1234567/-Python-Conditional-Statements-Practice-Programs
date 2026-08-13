@@ -7,8 +7,7 @@ elif num%3==0 and num%4==0:
 else :
     print ("not divisible by any one")
 
-
-3) num = "12365"
+2) num = "12365"
 if len(num)==1:
     print("Single")
 elif len(num) == 2:
@@ -19,7 +18,7 @@ else:
     print("Above 3")
 """
 """
-4) a = eval(input("Enter the character: "))
+3) a = eval(input("Enter the character: "))
 if isinstance(a,str):
     print(len(a))
 elif isinstance(a,tuple):
@@ -28,7 +27,7 @@ else:
     print("Invalid")
 """
 """
-5) age = eval(input("Enter the age: "))
+4) age = eval(input("Enter the age: "))
 if age>=0 and age<=17:
     print("Child")
 elif age>=18 and age<=30:
@@ -41,7 +40,7 @@ else:
     print("Invalid")"""
 
 """
-6) a=eval(input("Enter the number: "))
+5) a=eval(input("Enter the number: "))
 b=eval(input("Enter the number: "))
 c=eval(input("Enter the number: "))
 
@@ -53,7 +52,7 @@ else:
     print("c is Samaller")"""
 
 """
-7)m=eval(input("Enter the marks: "))
+6)m=eval(input("Enter the marks: "))
 e=eval(input("Enter the marks: "))
 h=eval(input("Enter the marks: "))
 ma=eval(input("Enter the marks: "))
@@ -73,7 +72,7 @@ else:
     print("Fail")
 """
 """
-8)username1=input("Enter Username: ")
+7)username1=input("Enter Username: ")
 username = "Pranay"
 password1=eval(input("Enter the Password: "))
 password="12345"
@@ -88,7 +87,7 @@ else:
     print("Invalid Both")
 """
 """
-9)x=eval(input("Enter the number: "))
+8)x=eval(input("Enter the number: "))
 if x>=0 and x%2==0:
     print("Positive Even")
 elif x>0 and x%2!=0:
@@ -100,7 +99,7 @@ elif x<0 and x%2!=0:
 else:
     print("Zero")"""
 """
-10)Battery=eval(input("Enter the battery percentage: "))
+9)Battery=eval(input("Enter the battery percentage: "))
 Money = eval(input("Enter the money: "))
 if Money >=1000 and Battery >= 80:
     print("Go on a Trip")
