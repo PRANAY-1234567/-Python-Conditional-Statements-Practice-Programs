@@ -296,7 +296,6 @@ if avg >= 50 and avg <= 59:
 ```
 
 after the previous `elif` conditions.
-
 It should be:
 
 ```python
