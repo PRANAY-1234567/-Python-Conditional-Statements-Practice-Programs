@@ -238,7 +238,6 @@ else:
 ### ⚠️ Note
 
 The above logic assumes the numbers are different. If two or more numbers are equal, the result may not accurately describe the smallest value.
-
 A more robust approach would be:
 
 ```python
