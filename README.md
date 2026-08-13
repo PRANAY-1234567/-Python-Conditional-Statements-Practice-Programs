@@ -1,7 +1,6 @@
 # 🐍 Python Conditional Statements – Practice Programs
 
 A collection of beginner-friendly **Python conditional statement programs** designed to practice decision-making, comparison operators, logical operators, arithmetic operations, strings, tuples, and nested conditions.
-
 These programs cover practical examples such as checking divisibility, classifying numbers, validating login credentials, determining student grades, and making decisions based on battery percentage and available money.
 
 ---
