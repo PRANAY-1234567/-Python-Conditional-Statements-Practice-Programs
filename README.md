@@ -7,7 +7,7 @@ These programs cover practical examples such as checking divisibility, classifyi
 
 ## 📌 Overview
 
-This repository contains **10 Python practice programs** based mainly on:
+This repository contains 10 Python practice programs based mainly on:
 
 * `if` statements
 * `if-elif-else`
